@@ -8,7 +8,8 @@ function makeArray() {
 
 function whileLoop(number) {
   let countdown=number;
-  while (number > 0) {
+  while (number >= 0) {
     console.log(number--);
   }
+  return 'done'
 }
