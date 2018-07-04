@@ -13,3 +13,14 @@ function whileLoop(number) {
   }
   return 'done'
 }
+
+function doWhileLoop() {
+  const array=[];
+  function maybeTrue() {
+    return Math.random() >=.5
+  }
+  do {
+    array.
+    
+  }
+}
