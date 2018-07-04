@@ -5,3 +5,8 @@ function makeArray() {
   }
   return array;
 }
+
+function whileLoop(number) {
+  console.log(--number);
+  while
+}
