@@ -24,6 +24,3 @@ function doWhileLoop() {
   } while (array.length > 0 && maybeTrue());
   return array;
 }
-    
-  }
-}
