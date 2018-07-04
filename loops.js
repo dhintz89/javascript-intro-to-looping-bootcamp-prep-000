@@ -20,7 +20,9 @@ function doWhileLoop() {
     return Math.random() >=.5
   }
   do {
-    array.
+    array.pop();
+  } while (array.length > 0 && maybeTrue());
+}
     
   }
 }
